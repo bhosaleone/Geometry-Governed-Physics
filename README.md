@@ -58,6 +58,7 @@ Start your journey with the [Lecture Series](docs/01_SYMMETRY.md):
 - [16: Shadow Geometry (Holographic Limits)](docs/16_SHADOW_GEOMETRY.md)
 - [17: Adversarial Tests (How to Kill the Framework)](docs/17_ADVERSARIAL_TESTS.md)
 - [18: The CODATA Audit (Fundamental Benchmarks)](docs/18_CODATA_MATCH.md)
+- [19: The Geometric Atom (Chemical Projections)](docs/19_CHEMICAL_AUDIT.md)
 
 ---
 **"The first principle is that you must not fool yourself—and you are the easiest person to fool."** - Richard Feynman

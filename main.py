@@ -2,31 +2,28 @@ from src.mass_mapper import MassMapper
 from src.lifetime_calc import LifetimeCalculator
 from src.polarization_sim import ChiralitySimulator
 from src.bekenstein_audit import run_holographic_audit
+from src.chemical_audit import ChemicalAuditor
 import sys
 
 def run_grand_audit():
-    print("\n" + "="*80)
-    print("GEOMETRY GOVERNED PHYSICS: GRAND UNIFICATION AUDIT".center(80))
-    print("="*80 + "\n")
+    print("\n" + "="*75)
+    print("GEOMETRY GOVERNED PHYSICS: GRAND UNIFICATION AUDIT".center(75))
+    print("="*75 + "\n")
     
-    # 1. Mass Mapping
-    print("Layer 1: Mass Mapping (L0-L5)")
+    # 1. Mass mapping
+    print("Layer 1: Power-Law Mass Mapping (L3, L10)")
     mapper = MassMapper()
     mapper.print_predictions()
     
-    # 2. Holographic Shadow Audit
-    print("\nLayer 2: Holographic Shadows & Bekenstein Limits (L9)")
+    # 2. Holographic Audit
+    print("\nLayer 2: Holographic Shadows & Bekenstein Limits (L16)")
     run_holographic_audit()
     
-    # 3. Lifetime Audit
-    print("\nLayer 3: Particle Lifetimes & Information Debt (L8)")
-    life_calc = LifetimeCalculator()
-    muon_n = 19/8
-    muon_life = life_calc.get_lifetime(muon_n)
-    print(f"Muon (n=2.375) Predicted Lifetime: {muon_life:.2e} s")
-    print(f"Proton (n=4.000) Predicted Status:  STABLE")
+    # 3. Chemical Audit
+    print("\nLayer 3: Geometric Chemistry (L19)")
+    chem = ChemicalAuditor()
+    chem.run()
     
-    # 4. Polarization Audit
     print("\nLayer 4: Light Geometry & S5 Parity")
     chirality = ChiralitySimulator()
     chirality.run_audit()
