@@ -49,8 +49,8 @@ class MassMapper:
     def print_predictions(self):
         particles = [
             ("Electron", 20.000, 0.0),
-            ("Muon", 13.382, 2.375), # n=2 + 0.375 residual
-            ("Proton", 9.382, 4.0),
+            ("Muon", 13.381966, 2.375), # n=2 + 0.375 residual
+            ("Proton", 9.381966, 4.0),
             ("Tau", 8.000, 0.0)
         ]
         
