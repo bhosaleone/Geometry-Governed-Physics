@@ -29,10 +29,22 @@ According to **Theorem 3.1**, the Proton occupies the "Deepest Stable Mode" of t
 The Proton is stable not just because its debt is an integer, but because it has **nowhere lower to go.**
 
 ---
-### Predictions:
-1. **Muon Lifetime**: Matched via $n=19/8$.
-2. **Proton Stability**: Proved as a geometric bound.
-3. **Decay Ratios**: Predicting the relative lifetimes of Kaons and Pions directly from their $S_5$ eigenvalue position.
+### 5. Falsifiable Predictions (Geometric Decay)
+- **P1 (Muon Residual)**: The fractional debt $n_{eff} = 2.375 = 19/8$ is a rational number with denominator 8, dictated by the $D_4$ subgroup boundary.
+- **P2 (Decay Ratios)**: The ratio of lifetimes for Kaons and Pions depends solely on their $S_5$ eigenvalue positions: $\Gamma_K / \Gamma_\pi = [(\lambda^* - \lambda_K)/(\lambda^* - \lambda_\pi)]^{9.382}$.
+- **P3 (Proton Stability)**: No decay event for a single proton will be observed above the geometric information debt limit.
+
+## Appendix: $S_5$ Eigenvalue Multiplicities
+The spectrum of the $S_5$ Laplacian $K$ dictates the available decay channels:
+
+| $\lambda$ | Multiplicity | $S_5$ Irrep | Physical Role |
+| :--- | :--- | :--- | :--- |
+| 0 | 1 | Trivial | Photon |
+| 3 | 4 | Standard | Vector Bosons |
+| 5 | 5 | Standard' | --- |
+| 6 | 6 | Wedge² | Pion Sector |
+| 13 | 10 | Hook' | Muon Base |
+| 20 | 1 | Sign | Electron Base |
 
 ---
 *Back to [README.md](../README.md)*

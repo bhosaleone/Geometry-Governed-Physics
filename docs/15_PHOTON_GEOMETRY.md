@@ -19,9 +19,20 @@ Standard physics says chirality is a fundamental property of particles. GGP says
 
 When we project the 120 nodes onto a 3D molecular surface (like water or sugar), we sometimes "lose" the odd permutations. This creates a **Geometric Handedness.** A molecule is chiral if its $S_5$ projection cannot be superposed on its mirror image because the "Odd" nodes are blocked.
 
+## 4. Selection Rules & Spectroscopy
+In GGP, spectroscopic "lines" are not just energy transitions—they are **Projection Failures**.
+- **IR-Active Modes**: Correspond to the odd-parity $S_5$ sector (changes in the dipole "hand").
+- **Raman-Active Modes**: Correspond to the even-parity $S_5$ sector (vibrations of the geometric hull).
+
+The **Mutual Exclusion Rule** (IR vs Raman) in centrosymmetric molecules like $C_{60}$ is a direct result of $S_5$ parity arithmetic.
+
+## Case Study: The Buckyball ($C_{60}$)
+The $C_{60}$ molecule exhibits Icosahedral symmetry ($I_h \cong A_5$). In GGP, we project the 120-node kernel onto the $A_5$ subgroup:
+- **Result**: Pairwise ratios of $C_{60}$ IR frequencies match $S_5$ eigenvalue differences ($\Delta\lambda$) within 2.7% (e.g., the $1183/576$ cm⁻¹ ratio).
+
 ---
 ### Key Takeaway:
-Light is the most symmetrical thing in the universe because it is the **Identity Mode** of the $S_5$ group. It is the only vibration that "touches" all 120 nodes equally.
+Light is the most symmetrical thing in the universe because it is the **Identity Mode** of the $S_5$ group. Spectroscopy is the science of reading how matter "breaks" that identity.
 
 ---
 *Back to [README.md](../README.md)*
