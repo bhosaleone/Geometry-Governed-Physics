@@ -1,5 +1,8 @@
 import math
-from engine import BekensteinEngine
+try:
+    from engine import BekensteinEngine
+except ImportError:
+    from src.engine import BekensteinEngine
 
 class MassMapper:
     """

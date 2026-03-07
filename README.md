@@ -46,6 +46,9 @@ Start your journey with the [Lecture Series](docs/01_SYMMETRY.md):
 - [11: The View from the Top (Epilogue)](docs/11_EPILOGUE.md)
 - [12: The Exchange Rate of Reality (α)](docs/12_ALPHA_DERIVATION.md)
 - [13: References and Related Work](docs/13_REFERENCES.md)
+- [14: The Clock of Decay (Lifetimes)](docs/14_LIFETIMES.md)
+- [15: The Ground Mode (Photon Geometry)](docs/15_PHOTON_GEOMETRY.md)
+- [16: Shadow Geometry (Holographic Limits)](docs/16_SHADOW_GEOMETRY.md)
 
 ---
 **"The first principle is that you must not fool yourself—and you are the easiest person to fool."** - Richard Feynman
