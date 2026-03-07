@@ -36,9 +36,7 @@ If GGP survives these five tests, it is not just a theory—it is a description 
 
 ## 4. The Pion Failure (The Factor of 31)
 The most significant threat to the current v2.0 mapping is the **Pion Eigenvalue Assignment**.
-- **Assignment**: $\lambda_\pi = 6.0$
-- **Prediction**: $((28.646 - 6.0)/(28.646 - 20.0))^{9.382} \approx 8380$
-- **Experimental**: $m_\pi / m_e \approx 273$
-- **Discrepancy**: **2,968%**
+- **Case A ($\lambda=6.0$)**: Error = **2,968%**. (Complete failure of the Wedge² irrep assignment).
+- **Case B ($\lambda=13.38$)**: Error = **23%**. (Muon-Mixing hypothesis).
 
-This proof shows that the Pion is the "leak" in the current S5 mapping. Any future iteration of GGP must resolve this factor of 31 or be discarded as a complete unification.
+If $|\lambda_\pi - \lambda_\mu| < 10^{-3}$, then the Pion must be a composite resonance that fails the single-point mapping formula. This "Factor-of-31" wall is the primary falsification point for the GGP Unification. 

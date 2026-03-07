@@ -14,14 +14,18 @@ $$n_{eff} = \frac{19}{8} = 2.375$$
 
 Because $0.375$ is leftover, the geometric closure isn't perfect. The particle "leaks" information into the vacuum. Eventually, the leak becomes so great that the particle's structural integrity fails. We call this **Decay.**
 
-## 3. The Decay Formula
-The rate of decay ($\Gamma$) is determined by the ratio of the **Bekenstein Limit** ($n_{max}$) to the particle's **Debt** ($n_{eff}$):
+## 3. The Dual-Clock Hierarchy
+The geometric clock $\omega_0$ operates on two distinct scales within the $S_5$ manifold:
 
-$$\Gamma = \omega_0 \cdot \exp\left( -\frac{n_{max}}{n_{eff}} \right)$$
+1. **The Sampling Clock ($\omega_{S} \approx 7.3 \times 10^{26}$ rad/s)**:
+   This is the high-frequency sampling rate of the 120-node kernel. It corresponds to the electroweak scale ($\approx 480$ GeV) and governs the internal stability of the irreps.
+   
+2. **The Leakage Clock ($\omega_{L} \approx 7.1 \times 10^{22}$ rad/s)**:
+   This is the rate at which information debt "leaks" through the hadronic boundary. It sits near the pion mass (~47 MeV) and governs the observable decay rate $\Gamma$:
 
-- **$\omega_0$**: The "Geometric Clock" (Corrected: $7.1 \times 10^{22}$ rad/s).
-- **$\hbar\omega_0$**: $\approx 47$ MeV (Hadronic regime, adjacent to pion mass).
-- **$n_{max}$**: The maximum debt a particle can carry (approx 10,820).
+$$\Gamma = \omega_{L} \cdot \exp\left( -\frac{n_{max}}{n_{eff}} \right)$$
+
+---
 
 ## 4. Why the Proton Wins
 For the Proton, $n=4$. But why doesn't it decay? 

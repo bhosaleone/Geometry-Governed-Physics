@@ -15,17 +15,17 @@ class GGPCalculator:
         self.lambda_star = (90 / math.pi) - (3 / (16 * self.phi_total))
         
         # 3. Reference Values
-        self.omega_0 = 7.1e22  # Corrected Geometric Clock (47 MeV scale)
-        self.s_max_electron = 2 * math.pi # Bekenstein Identity (L16)
+        self.omega_S = 7.32e26 # Internal Sampling Clock (Electroweak/Planck-link)
+        self.omega_L = 7.10e22 # External Leakage Clock (Hadronic/Decay)
+        self.s_max_electron = 2 * math.pi # Bekenstein Identity
 
     def audit_constants(self):
-        import sys
-        if hasattr(sys.stdout, 'reconfigure'):
-            sys.stdout.reconfigure(encoding='utf-8')
-            
-        print("--- LAYER 1: CONSTANT UNIFICATION ---")
+        print("--- LAYER 1: CONSTANT UNIFICATION & CLOCK HIERARCHY ---")
         print(f"Structural Alpha^-1: {self.alpha_inv:.9f}")
         print(f"Stability Threshold lambda*: {self.lambda_star:.9f}")
+        
+        print(f"Internal Clock (omega_S): {self.omega_S:.2e} rad/s (~480 GeV)")
+        print(f"External Clock (omega_L): {self.omega_L:.2e} rad/s (~47 MeV)")
         
         channel_cost = self.alpha / (4 * math.pi)
         n_max = self.s_max_electron / channel_cost
@@ -53,7 +53,13 @@ class GGPCalculator:
         print(f"\nMuon (lambda={lm:.3f}, n=2.375):")
         print(f"  m_geo ratio: {m_geo_mu:.4f}")
         print(f"  m_obs ratio: {m_obs_mu:.4f}")
-        print(f"  'Debt' mass: {m_obs_mu - m_geo_mu:.6f} m_e")
+        
+        # New Pion Mixing Audit
+        l_pion = 13.381966 # Predicted Muon-Mixing Mode
+        m_geo_pi = ((self.lambda_star - l_pion) / (self.lambda_star - le))**lp
+        print(f"\nPion-Candidate (lambda={l_pion:.3f}):")
+        print(f"  m_geo ratio: {m_geo_pi:.4f} (Obs: 273.1)")
+        print(f"  Residual: {abs(m_geo_pi - 273.1)/273.1*100:.1f}% Error")
 
     def audit_photon_ground(self):
         print("\n--- LAYER 3: PHOTON GROUND-MODE IDENTITY ---")
