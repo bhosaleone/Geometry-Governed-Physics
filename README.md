@@ -1,6 +1,10 @@
 # Geometry Governed Physics: The S5 Kernel
 
-> **"If you want to understand the universe, don't look at th## 🔬 The GGP Research Lab (Data Analysis Showcase)
+> [!IMPORTANT]
+> **Primary Archive & Citation**: This repository is archived on Zenodo at [https://zenodo.org/records/18901535](https://zenodo.org/records/18901535). Please use this link for formal citations and to access versioned research data.
+
+> **"If you want to understand the universe, don't look at the things in it. Look at the rules that allow them to be there."**
+## 🔬 The GGP Research Lab (Data Analysis Showcase)
 The following suite of tools provides the high-precision experimental evidence for the Geometry-Governed Physics framework. These are not merely scripts—they are the **physical verification of the One Object.**
 
 ### 🏛️ [The Grand Unification Audit](main.py)
