@@ -49,6 +49,7 @@ Start your journey with the [Lecture Series](docs/01_SYMMETRY.md):
 - [14: The Clock of Decay (Lifetimes)](docs/14_LIFETIMES.md)
 - [15: The Ground Mode (Photon Geometry)](docs/15_PHOTON_GEOMETRY.md)
 - [16: Shadow Geometry (Holographic Limits)](docs/16_SHADOW_GEOMETRY.md)
+- [17: Adversarial Tests (How to Kill the Framework)](docs/17_ADVERSARIAL_TESTS.md)
 
 ---
 **"The first principle is that you must not fool yourself—and you are the easiest person to fool."** - Richard Feynman
