@@ -19,7 +19,8 @@ The rate of decay ($\Gamma$) is determined by the ratio of the **Bekenstein Limi
 
 $$\Gamma = \omega_0 \cdot \exp\left( -\frac{n_{max}}{n_{eff}} \right)$$
 
-- **$\omega_0$**: The "Geometric Clock" (approx $7.1 \times 10^{26}$ Hz).
+- **$\omega_0$**: The "Geometric Clock" (Corrected: $7.1 \times 10^{22}$ rad/s).
+- **$\hbar\omega_0$**: $\approx 47$ MeV (Hadronic regime, adjacent to pion mass).
 - **$n_{max}$**: The maximum debt a particle can carry (approx 10,820).
 
 ## 4. Why the Proton Wins
@@ -42,9 +43,12 @@ The spectrum of the $S_5$ Laplacian $K$ dictates the available decay channels:
 | 0 | 1 | Trivial | Photon |
 | 3 | 4 | Standard | Vector Bosons |
 | 5 | 5 | Standard' | --- |
-| 6 | 6 | Wedge² | Pion Sector |
+| 6 | 6 | Wedge² | Pion* (See Note) |
 | 13 | 10 | Hook' | Muon Base |
 | 20 | 1 | Sign | Electron Base |
+
+> [!WARNING]
+> **The Pion Anomaly**: Current mapping of $\lambda=6$ for the Pion results in a mass discrepancy of >2,900%. This suggests the Pion is not a single-mode irrep but a dynamic fluxion between sectors. This is a primary research target for GGP v3.0.
 
 ---
 *Back to [README.md](../README.md)*

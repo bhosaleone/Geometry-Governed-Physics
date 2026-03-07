@@ -8,16 +8,6 @@ class LifetimeCalculator:
     """
     def __init__(self):
         # Universal Constants from GGP
-        self.phi_total = 120
-        self.alpha = 9 / (16 * (math.pi**(2.75)) * (self.phi_total**(0.25)))
-        
-        # Bekenstein-Compton maximum information debt
-        # S_max = 2π at the Compton surface
-        self.s_max = 2 * math.pi
-        self.n_max = self.s_max / (self.alpha / (4 * math.pi))
-        
-        # Geometric clock ω₀ (Calibrated from Muon lifetime)
-        # ω₀ ≈ 7.1 × 10^26 rad/s (approx 460 MeV scale)
         self.omega_0 = 7.1e26 
 
     def calculate_decay_rate(self, n_eff):

@@ -28,9 +28,7 @@ GGP proposes that everything we see—stars, planets, you—is a low-resolution 
 If we look closely enough at a shadow, we see the geometry of the object casting it. That is what we are doing here.
 
 ## 5. The Bekenstein Ceiling for Molecules
-The holographic limit applies to molecules as well as particles. For $C_{60}$:
-- $S_{Bek}(C_{60}) \approx 7.47 \times 10^9$ nats.
-- This sets a "Precision Ceiling" of $\approx 10^{-10}$ for molecular frequency ratios. Beyond this point, information debt dominates, and individual spectral lines begin to "blur."
+The holographic limit applies to molecules as well as particles. The clock frequency $\omega_0 \approx 7.1 \times 10^{22}$ rad/s (~47 MeV) defines the "temporal grain" of the system.
 
 ## 6. Connection to $g-2$
 The Muon's anomalous magnetic moment ($g-2$) is the universe's most sensitive audit of the vacuum. In GGP, the correction to $g-2$ contains a term proportional to the **Fractional Information Debt** ($n_{eff}=19/8$).

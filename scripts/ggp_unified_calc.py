@@ -18,7 +18,7 @@ class GGPCalculator:
         self.lambda_star = (90 / math.pi) - (3 / (16 * self.phi_total))
         
         # 3. Reference Values
-        self.omega_0 = 7.1e26  # Geometric Clock (L14)
+        self.omega_0 = 7.1e22  # Corrected Geometric Clock (47 MeV scale)
         self.s_max_electron = 2 * math.pi # Bekenstein Identity (L16)
 
     def audit_constants(self):
