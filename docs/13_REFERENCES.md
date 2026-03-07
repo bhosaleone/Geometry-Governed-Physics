@@ -7,6 +7,11 @@ The *Geometry Governed Physics* (GGP) framework is built upon a constellation of
 - **[Mass-Eigenvalue-Mapping](https://codeberg.org/ishrikantbhosale/Mass-Eigenvalue-Mapping)**:
   The central hub for data and numerical mapping of S5 eigenvalues to physical particle masses. Includes the early derivations of the power-law exponent.
 
+### Primary Research Documents (2026)
+- [Geometric Particle Lifetime](papers/Geometric_Particle_Lifetime_Bhosale_2026.docx) (Local Copy)
+- [Light Geometry S5](papers/Light_Geometry_S5_Bhosale_2026_v2.docx) (Local Copy)
+- [Shadow Geometry](papers/Shadow_Geometry_Bekenstein_GGP_Bhosale_2026.docx) (Local Copy)
+
 - **[CGV2 (Constraint Geometry v2)](https://codeberg.org/ishrikantbhosale/CGV2)**:
   The formal mathematical engine for calculating the ISL closure and the stability of geometric forms.
 
