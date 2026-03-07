@@ -10,6 +10,13 @@ Everything in this repository emerges from a single geometric object: the **S5 S
 - **The One Object**: Everything emerges from a single 120-node network.
 - **Scale Covariance**: Forces are not different "things"; they are just different ways of looking at the same network.
 
+## 📄 Primary Research Documents
+This framework is built upon three foundational manuscripts (2026):
+
+1. **[Geometric Particle Lifetime](papers/Geometric_Particle_Lifetime_Bhosale_2026.docx)**: Derives the geometric decay rate $\Gamma$ from fractional information debt ($n_{eff}=19/8=2.375$).
+2. **[Light Geometry S5](papers/Light_Geometry_S5_Bhosale_2026_v2.docx)**: Identifies the photon as the $S_5$ ground state ($\lambda=0$) and explains chirality as a parity projection.
+3. **[Shadow Geometry](papers/Shadow_Geometry_Bekenstein_GGP_Bhosale_2026.docx)**: Establishes the **Bekenstein-Compton Identity** ($S=2\pi$) and the holographic density limit of matter.
+
 ## What is Settled vs. Unsettled
 
 | Feature | Status | Truth Level |
