@@ -44,6 +44,7 @@ Start your journey with the [Lecture Series](docs/01_SYMMETRY.md):
 - [09: The Price of Presence](docs/09_ERROR_PRINCIPLE.md)
 - [10: The Master Scale (λ*)](docs/10_LAMBDA_STAR.md)
 - [11: The View from the Top (Epilogue)](docs/11_EPILOGUE.md)
+- [12: The Exchange Rate of Reality (α)](docs/12_ALPHA_DERIVATION.md)
 
 ---
 **"The first principle is that you must not fool yourself—and you are the easiest person to fool."** - Richard Feynman
