@@ -27,6 +27,15 @@ This framework is built upon three foundational manuscripts (2026):
 | **The Universe Scale ($\lambda^*$)** | **Settled** | Analytical Derivation |
 | **Fine-Structure Constant** | Unsettled | Analytical Conjecture |
 
+## 🧪 Data Analysis Showcase
+The GGP framework includes a suite of high-precision diagnostic tools to verify the "One Object" hypothesis:
+
+- **[The Grand Unification Audit](main.py)**: The primary entry point. Runs the 4-layer unification sweep (Mass, Shadows, Chemistry, Light).
+- **[CODATA 2022 Benchmark](src/codata_audit.py)**: High-precision audit of $\alpha$ (608 ppb match) and fundamental mass ratios.
+- **[Geometric Chemistry Audit](src/chemical_audit.py)**: Matches molecular vibrational spectra to $S_5$ eigenvalues (98% match for $C_{60}$).
+- **[Adversarial Stress Test](src/adversarial_audit.py)**: Attempts to falsify the framework by inducing structural instability in the kernel.
+- **[Unified Consistency Script](scripts/ggp_unified_calc.py)**: Reconciles the Dual-Clock hierarchy and Bekenstein entropy limits.
+
 ## The 5-Phase Research Program
 
 This repository is designed to follow the official research roadmap for "Geometry First" physics:
