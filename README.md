@@ -1,7 +1,7 @@
 # Geometry Governed Physics: The S5 Kernel
 
 > [!IMPORTANT]
-> **Primary Archive & Citation**: This repository is archived on Zenodo at [https://zenodo.org/records/18901535](https://zenodo.org/records/18901535). Please use this link for formal citations and to access versioned research data.
+> **Primary Archive & Citation**: This repository is archived on Zenodo at [https://zenodo.org/records/18901535](https://zenodo.org/records/18901535). Please use this link for formal citations and to access versioned research data (v2.1: The S6 Horizon).
 
 > **"If you want to understand the universe, don't look at the things in it. Look at the rules that allow them to be there."**
 ## 🔬 The GGP Research Lab (Data Analysis Showcase)
@@ -64,7 +64,7 @@ This repository is designed to follow the official research roadmap for "Geometr
 2.  **Phase 2: Mastery of the Dictionary** - Mapping eigenvalues to mass and physical constants.
 3.  **Phase 3: Structural Synthesis** - Connecting the S5 Kernel to General Relativity and Quantum Mechanics.
 4.  **Phase 4: Attacking Open Problems** - Proposing falsifiable claims (Dark Matter as projection, etc.).
-5.  **Phase 5: Synthesis** - Building a coherent, scale-invariant ontology of reality.
+5.  **Phase 5: The S6 Horizon** - Transitioning from the $S_5$ low-energy floor to the full $S_6$ Standard Model geometry.
 
 ## Explore the Curriculum
 
@@ -88,6 +88,8 @@ Start your journey with the [Lecture Series](docs/01_SYMMETRY.md):
 - [17: Adversarial Tests (How to Kill the Framework)](docs/17_ADVERSARIAL_TESTS.md)
 - [18: The CODATA Audit (Fundamental Benchmarks)](docs/18_CODATA_MATCH.md)
 - [19: The Geometric Atom (Chemical Projections)](docs/19_CHEMICAL_AUDIT.md)
+- [Diagnostic: Geometric Frequency Findings](docs/GEOMETRIC_CLOCK_FINDINGS.md)
+- [Diagnostic: Tau Anomaly & Molecular Projections Summary](docs/TAU_AND_MOLECULAR_FINDINGS.md)
 - [20: The Limits of S5 and the Extension to S6](docs/20_S6_EXTENSION.md)
 - [21: Celebrating the Boundaries (Why Theories Must Fail to Grow)](docs/21_CELEBRATING_FAILURES.md)
 - [22: Bosonic Scaling and the Outer Automorphism](docs/22_BOSONIC_SCALING.md)
