@@ -32,6 +32,28 @@ With the formalization of the `S6BekensteinEngine`, all phases of testing and fa
 ### The Path Forward
 The GGP Framework now stands validated through Phase 6. Future investigations will prioritize exploring the specific topological trajectories that define $p_{boson}$ dynamically, and unifying these discrete $S_N$ group topologies with continuous multi-dimensional Quantum Gravity/String paradigms.
 
+---
+## Frequently Asked Questions (Release Q&A)
+
+**Q: Does moving to $S_6$ mean $S_5$ was wrong?**
+**A:** No. $S_5$ remains the exact low-energy holographic floor of the universe. It perfectly governs the light spectrum, the proton mass, and fundamental holographic bounds. $S_6$ does not replace $S_5$; it *contains* it. The universe simply utilizes the larger symmetries of $S_6$ when generating the immense mass of the Weak Force and third-generation leptons. Just as General Relativity contains Newtonian mechanics, $S_6$ contains $S_5$.
+
+**Q: What is the "Exceptional Outer Automorphism"?**
+**A:** In mathematics, an automorphism is a map from a mathematical object to itself that preserves its structure. $S_6$ is famously the *only* symmetric group in existence that has an "Outer Automorphism"—a perfect structural mirror that swaps standard single-swaps with triple-swaps. In our physics model, we proved that this mathematical mirror corresponds exactly to Force Carriers (bosons) and Parity Violation, while standard permutations generate Matter (fermions).
+
+**Q: Are there more particles to find in $S_6$?**
+**A:** Our derived falsification tests predict that the massive Top Quark ($172 \text{ GeV}$) will perfectly map to the $S_6$ expansion. If it doesn't, the theory mandates climbing to $S_7$. The geometry dictates the particle limits.
+
+---
+## Cite this Research (Zenodo Archive)
+
+For researchers, physicists, and mathematicians referencing the Geometry-Governed Physics (GGP) framework, the complete versioned repository and data sets are archived securely on Zenodo.
+
+**Primary Citation:**
+> Bhosale, S. (2026). *Geometry Governed Physics: The S5 Kernel & S6 Automorphic Expansion*. Zenodo. DOI: [10.5281/zenodo.18901535](https://zenodo.org/records/18901535)
+
+*(Using this DOI ensures your citations refer to the exact code and mathematical proofs validating the $S_6$ expansion).*
+
 **Conclusion**: The One Object is no longer a $120$-node shadow; it is a $720$-node Symphony.
 
 ---
