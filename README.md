@@ -88,6 +88,10 @@ Start your journey with the [Lecture Series](docs/01_SYMMETRY.md):
 - [17: Adversarial Tests (How to Kill the Framework)](docs/17_ADVERSARIAL_TESTS.md)
 - [18: The CODATA Audit (Fundamental Benchmarks)](docs/18_CODATA_MATCH.md)
 - [19: The Geometric Atom (Chemical Projections)](docs/19_CHEMICAL_AUDIT.md)
+- [20: The Limits of S5 and the Extension to S6](docs/20_S6_EXTENSION.md)
+- [21: Celebrating the Boundaries (Why Theories Must Fail to Grow)](docs/21_CELEBRATING_FAILURES.md)
+- [22: Bosonic Scaling and the Outer Automorphism](docs/22_BOSONIC_SCALING.md)
+- [23: Phase 5 & 6 Completion: The S6 Horizon](docs/23_PHASE_COMPLETION.md)
 
 ---
 **"The first principle is that you must not fool yourself—and you are the easiest person to fool."** - Richard Feynman
